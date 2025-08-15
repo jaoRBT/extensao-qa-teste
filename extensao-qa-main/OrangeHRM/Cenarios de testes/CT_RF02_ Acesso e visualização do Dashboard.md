@@ -19,7 +19,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente a interface do Dashboard.     |
-
+| **video teste**                                                 |
+| https://jam.dev/c/3e1920d0-6eb5-41e0-a2ee-d71e4cb82aa6          |
 ---
 
 ### Caso de Teste 02: Verificação da exibição dos widgets do Dashboard.
@@ -41,7 +42,10 @@
 
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
-| Todos os widgets principais devem ser visíveis e funcionais.     |
+| Todos os widgets principais devem ser visíveis e funcionais.    |
+| **video teste**                                                 |
+| https://jam.dev/c/c17f5bd0-7610-4e16-b091-005a0e57e3b9          |
+
 
 ---
 
@@ -65,3 +69,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A sessão expirada deve ser tratada corretamente com redirecionamento. |
+| **video teste**                                                 |
+| https://jam.dev/c/57cc7747-e942-459b-8d95-883c46b1ebc2          |
