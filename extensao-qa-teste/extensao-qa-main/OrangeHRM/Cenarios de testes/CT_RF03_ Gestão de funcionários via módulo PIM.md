@@ -45,7 +45,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
-
+| **video teste**                                                 |
   https://jam.dev/c/75f757dd-135e-4c92-bd91-5540b988e29a
 ---
 
@@ -69,4 +69,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O funcionário correspondente deve ser listado corretamente.     |
+| **video teste**                                                 |
 https://jam.dev/c/646efec4-26b9-434a-8fa3-248182206b2c

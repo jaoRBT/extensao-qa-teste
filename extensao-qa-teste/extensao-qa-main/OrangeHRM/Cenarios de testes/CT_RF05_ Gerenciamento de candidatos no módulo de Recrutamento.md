@@ -21,6 +21,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O candidato deve ser exibido corretamente na lista após o cadastro. |
+| **video teste**                                                 |
 https://jam.dev/c/d14169cd-928c-4081-84d6-749c651dd53f
 
 ---
@@ -46,6 +47,7 @@ https://jam.dev/c/d14169cd-928c-4081-84d6-749c651dd53f
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem ser validados com mensagens de erro. |
+| **video teste**                                                 |
 https://jam.dev/c/24c2501c-d302-4808-9fa1-19792089a2fe
 
 ---
@@ -70,4 +72,5 @@ https://jam.dev/c/24c2501c-d302-4808-9fa1-19792089a2fe
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O candidato pesquisado deve ser exibido na lista de resultados. |
-
+| **video teste**                                                 |
+https://jam.dev/c/5dbe1d1d-24fb-4fe7-9e06-d3977180a088

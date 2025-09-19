@@ -21,6 +21,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O usuário cadastrado deve aparecer na lista de usuários ativos. |
+| **video teste**                                                 |
+https://jam.dev/c/b0e885f6-fc13-46ae-940b-c64dfb78d419
 
 ---
 
@@ -45,6 +47,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o cadastro e exibir mensagem de duplicidade. |
+| **video teste**                                                 |
+https://jam.dev/c/775ad728-81e9-4fad-a1b0-d82b193e9675
 
 ---
 
@@ -68,3 +72,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A lista deve conter apenas usuários com status "Enabled".       |
+| **video teste**                                                 |
+https://jam.dev/c/c3210c2c-1751-4426-9152-1a574b74c655

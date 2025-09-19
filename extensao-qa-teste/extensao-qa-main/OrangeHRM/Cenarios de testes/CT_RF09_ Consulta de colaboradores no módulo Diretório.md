@@ -20,6 +20,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O nome, cargo e localização do colaborador devem ser exibidos corretamente. |
+| **video teste**                                                 |
+https://jam.dev/c/787e44b4-7e68-4666-bae6-43f82dd85271
 
 ---
 
@@ -43,7 +45,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir claramente que não há registros encontrados. |
-
+| **video teste**                                                 |
+https://jam.dev/c/5f36c1c8-1209-49c4-a501-cfa6f44715f3
 ---
 
 ### Caso de Teste 03: Aplicar filtro por cargo (Job Title).
@@ -66,3 +69,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O filtro deve funcionar corretamente e retornar apenas resultados válidos. |
+| **video teste**                                                 |
+https://jam.dev/c/566e982c-d1ee-411f-9d36-fba5a08c263e

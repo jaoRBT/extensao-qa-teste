@@ -20,6 +20,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve confirmar o registro com uma mensagem e salvar o horário. |
+| **video teste**                                                 |
+https://jam.dev/c/5c58d97a-819b-4616-b7eb-a09d17ac6285
 
 ---
 
@@ -42,7 +44,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o registro e apresentar mensagem adequada. |
-
+| **video teste**                                                 |
+https://jam.dev/c/04d7bddd-ac8c-424d-883c-5ede048a9c0e
 ---
 
 ### Caso de Teste 03: Consultar registro de ponto anterior.
@@ -64,3 +67,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente os registros existentes da data informada. |
+| **video teste**                                                 |
+https://jam.dev/c/63aaca73-b064-422b-ba85-3fb8be5f1e37

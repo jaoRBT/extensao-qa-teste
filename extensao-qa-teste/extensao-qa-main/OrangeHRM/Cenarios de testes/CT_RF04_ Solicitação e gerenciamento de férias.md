@@ -22,6 +22,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A solicitação deve aparecer listada em \"My Leave\".            |
+| **video teste**                                                 |
 https://jam.dev/c/55f74af6-a575-4b95-a163-b86dea2fe3f1
 
 ---
@@ -48,7 +49,7 @@ https://jam.dev/c/55f74af6-a575-4b95-a163-b86dea2fe3f1
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A aplicação deve ser bloqueada e o erro deve ser exibido ao usuário. |
-
+| **video teste**                                                 |
 https://jam.dev/c/55f74af6-a575-4b95-a163-b86dea2fe3f1
 
 ---
@@ -72,4 +73,5 @@ https://jam.dev/c/55f74af6-a575-4b95-a163-b86dea2fe3f1
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
+| **video teste**                                                 |
 https://jam.dev/c/55f74af6-a575-4b95-a163-b86dea2fe3f1
